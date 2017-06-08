@@ -1,6 +1,6 @@
 // Markus Hofstetter's implementation of Conways Game of Life.
-// Please note, that this implementation is not very memory efficient. If you want to use a board that is larger
-// than  13 by 13 Pixels you will need more RAM than is available on an Arduino UNO
+// Please note, that this implementation is not very memory efficient. If you want to use a game-board that is larger
+// than  13 by 13 pixels you will need more RAM than is available on an Arduino UNO
 
 #include <Adafruit_GFX.h>
 #include <Adafruit_NeoMatrix.h>
